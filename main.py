@@ -1,4 +1,4 @@
-# install the following the modules requests,tkinter,time
+# install the following the modules requests,tkinter
 #We can use command like pip install module_name
 #we use requests for json files
 #tkinter for gui
